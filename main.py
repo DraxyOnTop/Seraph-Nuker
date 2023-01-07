@@ -15,7 +15,7 @@ from threading import Thread
 from discord.utils import find, get
 from discord.ext import commands
 from time import strftime, gmtime
-from discord import Webhook, AsyncWebhookAdapter
+from discord import Webhook,
 
 os.system('cls & title [Seraph Nuker] - Loading & mode 69,20')
 
